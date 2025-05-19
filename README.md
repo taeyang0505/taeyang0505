@@ -1,16 +1,86 @@
-## Hi there 👋
+## 💻 Hi there! I'm Taeyang
 
-<!--
-**taeyang0505/taeyang0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student and aspiring AI developer with a strong passion for machine learning, deep learning, and real-world AI applications. Although I haven't had direct industry experience yet, I’ve worked on multiple hands-on projects and continue to study rigorously to build a solid foundation.
 
-Here are some ideas to get you started:
+My focus areas include natural language processing (NLP), computer vision, multimodal AI, emotion recognition, chatbots, investment analysis, and healthcare. I aim to build a practical and impactful AI portfolio through consistent experimentation and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* 🎓 Undergraduate student with a Codecademy AI Certificate
+* 🧠 Developing NLP-based emotion recognition and multimodal chatbot models
+* 📱 Working toward deploying AI-powered chatbots on iOS (CoreML integration)
+* 🌍 Career goal: working in AI startups or companies in Korea or abroad
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+
+* Python (with Pandas, NumPy, Matplotlib)
+* TensorFlow / Keras, PyTorch, scikit-learn
+* Hugging Face Transformers
+
+**Tools & Platforms**
+
+* Jupyter Notebook, VSCode
+* Git / GitHub
+* macOS (Apple Silicon-based development environment)
+
+---
+
+### 📌 Featured Projects
+
+* 🧠 [Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)
+
+  * BiLSTM + Attention-based text emotion analysis
+  * EfficientNet-based image emotion recognition
+  * Multimodal response generation combining text and image inputs
+
+* 📊 [U.S. Medical Insurance Cost Analysis](https://github.com/taeyang0505/us-medical-insurance-analysis-project)
+
+  * Investigated insurance cost data using Python, Pandas, and Matplotlib
+  * Visualized correlations and extracted meaningful insights from a .csv dataset
+
+* 🧠 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
+
+  * A comprehensive summary of personal AI learning and mini-projects
+  * Explored a variety of machine learning topics using Python and Numpy
+
+* 🩺 [Pneumonia Classification Project](https://github.com/taeyang0505/Pneumonia-Classification-Project)
+
+  * Classified pneumonia from chest X-ray images using deep learning techniques
+  * Implemented with TensorFlow and Keras on Jupyter Notebook
+
+* 🌲 [Forest Cover Classification Project](https://github.com/taeyang0505/Forest_Cover_Classification_Project)
+
+  * Predicted forest cover types using structured data
+  * Built classification models using deep learning in TensorFlow([https://github.com/taeyang0505/Emotion\_Aware\_Multimodal\_Chatbot\_Project\_Text\_Image\_and\_Response\_Generation](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation))
+  * BiLSTM + Attention-based text emotion analysis
+  * EfficientNet-based image emotion recognition
+  * Multimodal response generation combining text and image inputs
+
+* 📊 [U.S. Medical Insurance Cost Analysis](https://github.com/taeyang0505/us-medical-insurance-analysis-project)
+
+  * Visualizing and analyzing insurance data using Pandas and Seaborn
+  * Regression-based cost predictions and insights
+
+---
+
+### ✍ Blog & Contacts
+
+* 📝 [Tistory Blog](https://taeyang4208.tistory.com) — Posting technical write-ups and development notes
+* 📫 Email: [taeyang0505@gmail.com](mailto:taeyang0505@gmail.com)
+
+---
+
+### 📈 GitHub Stats
+
+![Taeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyang0505\&show_icons=true\&theme=default)
+
+---
+
+> "Every project is a step toward real-world impact."
+> — Striving to become a developer who learns consistently and builds practical AI solutions 
