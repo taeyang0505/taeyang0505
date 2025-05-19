@@ -33,13 +33,13 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
 ### 📌 Featured Projects
 
-* 🧠 [Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)
+* ❤️ [Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)
 
   * BiLSTM + Attention-based text emotion analysis
   * EfficientNet-based image emotion recognition
   * Multimodal response generation combining text and image inputs
 
-* 🩺 [Pneumonia Classification Project](https://github.com/taeyang0505/Pneumonia-Classification-Project)
+* 🫁 [Pneumonia Classification Project](https://github.com/taeyang0505/Pneumonia-Classification-Project)
 
   * Classified pneumonia from chest X-ray images using deep learning techniques
   * Implemented with TensorFlow and Keras on Jupyter Notebook
@@ -57,7 +57,7 @@ My focus areas include natural language processing (NLP), computer vision, multi
   * Visualizing and analyzing insurance data using Pandas and Seaborn
   * Regression-based cost predictions and insights
 
-* 🧠 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
+* 📚 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
 
   * A comprehensive summary of personal AI learning and mini-projects
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
