@@ -68,21 +68,11 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
 Here are some of the certificates I’ve earned from Codecademy:
 
-#### 🧠 Machine Learning / AI Engineer Career Path
-![Machine Learning Certificate](./Machine_Learning_AI_Engineer_Career_Path.png)
-
-#### 📊 Data and Programming Foundations for AI
-![Data and Programming Foundations](./Data_and_Programming_Foundations_for_AI.png)
-
-#### 📚 Build Deep Learning Models with TensorFlow
-![Deep Learning Certificate](./Build_Deep_Learning_Models_with_TensorFlow.png)
-
-#### 💬 Getting Started with Natural Language Processing
-![NLP Certificate](./Getting_Started_with_NLP.png)
-
-#### 🔍 Intro to Large Language Models (LLMs)
-![LLM Certificate](./Intro_to_LLMs.png)
-
+- 🧠 [Machine Learning / AI Engineer Career Path](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning:AI%20Engineer%20Career%20Path.pdf)
+- 📊 [Data and Programming Foundations for AI](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
+- 📚 [Build Deep Learning Models with TensorFlow](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
+- 💬 [Getting Started with Natural Language Processing](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
+- 🔍 [Intro to Large Language Models (LLMs)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
 ### ✍ Blog & Contacts
 
 * 📝 [Tistory Blog](https://taeyang4208.tistory.com) — Posting technical write-ups and development notes
