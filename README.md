@@ -25,7 +25,7 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
 **Tools & Platforms**
 
-* Jupyter Notebook, VSCode
+* Jupyter Notebook, Colab
 * Git / GitHub
 * macOS (Apple Silicon-based development environment)
 
