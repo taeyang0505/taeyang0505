@@ -76,11 +76,5 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
 ---
 
-### 📈 GitHub Stats
-
-![Taeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyang0505\&show_icons=true\&theme=default)
-
----
-
 > "Every project is a step toward real-world impact."
 > — Striving to become a developer who learns consistently and builds practical AI solutions 
