@@ -48,7 +48,7 @@ My focus areas include natural language processing (NLP), computer vision, multi
 * 🌲 [Forest Cover Classification Project](https://github.com/taeyang0505/Forest_Cover_Classification_Project)
 
   * Predicted forest cover types using structured data
-  * Built classification models using deep learning in TensorFlow([https://github.com/taeyang0505/Emotion\_Aware\_Multimodal\_Chatbot\_Project\_Text\_Image\_and\_Response\_Generation](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation))
+  * Built classification models using deep learning in TensorFlow
   * BiLSTM + Attention-based text emotion analysis
   * EfficientNet-based image emotion recognition
   * Multimodal response generation combining text and image inputs
