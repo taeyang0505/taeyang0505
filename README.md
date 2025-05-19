@@ -39,16 +39,6 @@ My focus areas include natural language processing (NLP), computer vision, multi
   * EfficientNet-based image emotion recognition
   * Multimodal response generation combining text and image inputs
 
-* 📊 [U.S. Medical Insurance Cost Analysis](https://github.com/taeyang0505/us-medical-insurance-analysis-project)
-
-  * Investigated insurance cost data using Python, Pandas, and Matplotlib
-  * Visualized correlations and extracted meaningful insights from a .csv dataset
-
-* 🧠 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
-
-  * A comprehensive summary of personal AI learning and mini-projects
-  * Explored a variety of machine learning topics using Python and Numpy
-
 * 🩺 [Pneumonia Classification Project](https://github.com/taeyang0505/Pneumonia-Classification-Project)
 
   * Classified pneumonia from chest X-ray images using deep learning techniques
@@ -67,6 +57,11 @@ My focus areas include natural language processing (NLP), computer vision, multi
   * Visualizing and analyzing insurance data using Pandas and Seaborn
   * Regression-based cost predictions and insights
 
+* 🧠 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
+
+  * A comprehensive summary of personal AI learning and mini-projects
+  * Explored a variety of machine learning and deep learning topics using Python and Numpy
+  * 
 ---
 
 ### ✍ Blog & Contacts
