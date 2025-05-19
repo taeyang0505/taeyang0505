@@ -62,7 +62,6 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
   * A comprehensive summary of personal AI learning and mini-projects
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
-  * 
 ---
 
 ### ✍ Blog & Contacts
