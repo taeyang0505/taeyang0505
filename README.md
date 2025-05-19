@@ -8,6 +8,7 @@ My focus areas include natural language processing (NLP), computer vision, multi
 
 ### 🚀 About Me
 
+* 🎓 Undergraduate student majoring in Artificial Intelligence Engineering at Inha University 
 * 🎓 Undergraduate student with a Codecademy AI Certificate
 * 🧠 Developing NLP-based emotion recognition and multimodal chatbot models
 * 📱 Working toward deploying AI-powered chatbots on iOS (CoreML integration)
