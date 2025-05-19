@@ -64,6 +64,25 @@ My focus areas include natural language processing (NLP), computer vision, multi
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
 ---
 
+### 📜 Certificates
+
+Here are some of the certificates I’ve earned from Codecademy:
+
+#### 🧠 Machine Learning / AI Engineer Career Path
+![Machine Learning Certificate](./Machine_Learning_AI_Engineer_Career_Path.png)
+
+#### 📊 Data and Programming Foundations for AI
+![Data and Programming Foundations](./Data_and_Programming_Foundations_for_AI.png)
+
+#### 📚 Build Deep Learning Models with TensorFlow
+![Deep Learning Certificate](./Build_Deep_Learning_Models_with_TensorFlow.png)
+
+#### 💬 Getting Started with Natural Language Processing
+![NLP Certificate](./Getting_Started_with_NLP.png)
+
+#### 🔍 Intro to Large Language Models (LLMs)
+![LLM Certificate](./Intro_to_LLMs.png)
+
 ### ✍ Blog & Contacts
 
 * 📝 [Tistory Blog](https://taeyang4208.tistory.com) — Posting technical write-ups and development notes
