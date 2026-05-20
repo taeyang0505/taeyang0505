@@ -64,15 +64,13 @@ My focus areas include natural language processing (NLP), computer vision, multi
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
 ---
 
-### 📜 Certificates
+### 📜 Certificates (Codecademy)
 
-Here are some of the certificates I’ve earned from Codecademy:
-
-- 🧠 [Machine Learning / AI Engineer Career Path](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning:AI%20Engineer%20Career%20Path.pdf)
-- 📊 [Data and Programming Foundations for AI](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
-- 📚 [Build Deep Learning Models with TensorFlow](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
-- 💬 [Getting Started with Natural Language Processing](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
-- 🔍 [Intro to Large Language Models (LLMs)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
+[![Machine Learning / AI Engineer Career Path](https://img.shields.io/badge/Codecademy-Machine_Learning_%2F_AI_Engineer_Career_Path-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning:%20AI%20Engineer%20Career%20Path.pdf)
+[![Data and Programming Foundations for AI](https://img.shields.io/badge/Codecademy-Data_and_Programming_Foundations_for_AI-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
+[![Build Deep Learning Models with TensorFlow](https://img.shields.io/badge/Codecademy-Build_Deep_Learning_Models_with_TensorFlow-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
+[![Getting Started with Natural Language Processing](https://img.shields.io/badge/Codecademy-Getting_Started_with_Natural_Language_Processing-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
+[![Intro to Large Language Models (LLMs)](https://img.shields.io/badge/Codecademy-Intro_to_Large_Language_Models_(LLMs)-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
 
 ### 📜 Certificates (Naver Boostcourse)
 
