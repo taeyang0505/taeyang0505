@@ -73,6 +73,15 @@ Here are some of the certificates I’ve earned from Codecademy:
 - 📚 [Build Deep Learning Models with TensorFlow](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
 - 💬 [Getting Started with Natural Language Processing](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
 - 🔍 [Intro to Large Language Models (LLMs)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
+
+### 📜 Certificates (Naver Boostcourse)
+
+[![인공지능 기초 다지기 (1)](https://img.shields.io/badge/Naver_Boostcourse-인공지능_기초_다지기_(1)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_1.pdf)
+[![인공지능 기초 다지기 (2)](https://img.shields.io/badge/Naver_Boostcourse-인공지능_기초_다지기_(2)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_2.pdf)
+[![인공지능을 위한 선형대수](https://img.shields.io/badge/Naver_Boostcourse-인공지능을_위한_선형대수-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_linear_algebra.pdf)
+[![신경망과 딥러닝](https://img.shields.io/badge/Naver_Boostcourse-딥러닝_1단계:_신경망과_딥러닝-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_dl_1.pdf)
+[![컴퓨터 비전의 모든 것](https://img.shields.io/badge/Naver_Boostcourse-컴퓨터_비전의_모든_것-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_cv.pdf)
+
 ### ✍ Blog & Contacts
 
 * 📝 [Tistory Blog](https://taeyang4208.tistory.com) — Posting technical write-ups and development notes
