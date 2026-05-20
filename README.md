@@ -1,33 +1,29 @@
-## 💻 Hi there! I'm Taeyang
+💻 **Hi there! I'm Taeyang**
 
-I'm an undergraduate student and aspiring AI developer with a strong passion for machine learning, deep learning, and real-world AI applications. Although I haven't had direct industry experience yet, I’ve worked on multiple hands-on projects and continue to study rigorously to build a solid foundation.
+I'm an undergraduate student majoring in Artificial Intelligence Engineering at Inha University and an aspiring AI researcher. My primary focus lies in Computer Vision (CV) and Multimodal AI. 
 
-My focus areas include natural language processing (NLP), computer vision, multimodal AI, emotion recognition, chatbots, investment analysis, and healthcare. I aim to build a practical and impactful AI portfolio through consistent experimentation and learning.
+Currently, I am working as an undergraduate research assistant, where my research centers on mitigating Object Hallucination in Vision-Language Models (VLMs). I am passionate about building robust and practical AI systems through rigorous experimentation and continuous learning.
 
----
+🚀 **About Me**
 
-### 🚀 About Me
+* 🎓 Undergraduate student majoring in Artificial Intelligence Engineering at Inha University
+* 🔬 Undergraduate Research Assistant focusing on Vision-Language Models (VLMs)
+* 🎯 Research Interest: Mitigating Object Hallucination in VLMs, Computer Vision, and Multimodal AI
+* 💻 Developing multimodal AI models and exploring practical applications
+* 🏅 Holding various AI/DL certificates (Naver Boostcourse, Codecademy)
 
-* 🎓 Undergraduate student majoring in Artificial Intelligence Engineering at Inha University 
-* 🎓 Undergraduate student with a Codecademy AI Certificate
-* 🧠 Developing NLP-based emotion recognition and multimodal chatbot models
-* 📱 Working toward deploying AI-powered chatbots on iOS (CoreML integration)
-* 🌍 Career goal: working in AI startups or companies in Korea or abroad
-
----
-
-### 🛠 Tech Stack
+🛠️ **Tech Stack**
 
 **Languages & Frameworks**
-
-* Python (with Pandas, NumPy, Matplotlib)
-* TensorFlow / Keras, PyTorch, scikit-learn
-* Hugging Face Transformers
+* Python (Pandas, NumPy, Matplotlib)
+* PyTorch, TensorFlow / Keras
+* Hugging Face Transformers, ollama
+* OpenCV, PIL (for Computer Vision tasks)
+* scikit-learn
 
 **Tools & Platforms**
-
-* Jupyter Notebook, Colab
 * Git / GitHub
+* Jupyter Notebook, Google Colab
 * macOS (Apple Silicon-based development environment)
 
 ---
