@@ -30,6 +30,11 @@ Currently, I am working as an undergraduate research assistant, where my researc
 
 ### 📌 Featured Projects
 
+* 👁️ [B-VCD: Mitigating Object Hallucination in VLMs](https://github.com/taeyang0505/B-VCD-Mitigating-Object-Hallucination-in-VLMs)
+  - Developed a training-free inference-stage defense mechanism for Vision-Language Models (VLMs)
+  - Implemented realistic sensor degradation (Motion Blur & Poisson-Gaussian noise) modeling
+  - Built an automated LLM-as-a-Judge evaluation pipeline using Gemini 2.5 Flash
+
 * ❤️ [Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)
 
   * BiLSTM + Attention-based text emotion analysis
