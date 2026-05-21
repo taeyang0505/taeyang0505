@@ -1,6 +1,7 @@
 💻 **Hi there! I'm Taeyang**
 
-I'm an undergraduate student majoring in Artificial Intelligence Engineering at Inha University and an aspiring AI researcher.  My primary focus lies in Computer Vision (CV) and Multimodal AI. 
+I'm an undergraduate student majoring in Artificial Intelligence Engineering at Inha University and an aspiring AI researcher.  
+My primary focus lies in Computer Vision (CV) and Multimodal AI. 
 
 Currently, I am working as an undergraduate research assistant, where my research centers on mitigating Object Hallucination in Vision-Language Models (VLMs). I am passionate about building robust and practical AI systems through rigorous experimentation and continuous learning.
 
