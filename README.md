@@ -66,10 +66,10 @@ Currently, I am working as an undergraduate research assistant, where my researc
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
 ---
 
-### 📜 Competition Prizes (Domestic, Global)
+### 🏆 Competition Prizes (Domestic, Global)
 
 
-### 📜 Publications (Paper)
+### 📑 Publications (Paper)
 
 
 ### 📜 Certificates (Codecademy)
