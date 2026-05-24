@@ -66,6 +66,12 @@ Currently, I am working as an undergraduate research assistant, where my researc
   * Explored a variety of machine learning and deep learning topics using Python and Numpy
 ---
 
+### 📜 Competition Prizes (Domestic, Global)
+
+
+### 📜 Publications (Paper)
+
+
 ### 📜 Certificates (Codecademy)
 
 [![Machine Learning / AI Engineer Career Path](https://img.shields.io/badge/Codecademy-Machine_Learning_%2F_AI_Engineer_Career_Path-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning:%20AI%20Engineer%20Career%20Path.pdf)
