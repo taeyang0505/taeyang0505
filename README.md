@@ -82,6 +82,7 @@ Currently, I am working as an undergraduate research assistant, where my researc
 [![신경망과 딥러닝](https://img.shields.io/badge/Naver_Boostcourse-딥러닝_1단계:_신경망과_딥러닝-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_dl_1.pdf)
 [![컴퓨터 비전의 모든 것](https://img.shields.io/badge/Naver_Boostcourse-컴퓨터_비전의_모든_것-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_cv.pdf)
 [![자연어 처리의 모든 것](https://img.shields.io/badge/Naver_Boostcourse-자연어_처리의_모든_것-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_nlp.pdf)
+[![딥러닝 모델 더 작게 만들기(경량화)](https://img.shields.io/badge/Naver_Boostcourse-딥러닝_모델_더_작게_만들기(경량화)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_model_compression.pdf)
 
 ### ✍ Blog & Contacts
 
