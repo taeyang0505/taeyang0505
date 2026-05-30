@@ -3,13 +3,13 @@
 I'm an undergraduate student majoring in Artificial Intelligence Engineering at Inha University and an aspiring AI researcher.  
 My primary focus lies in Computer Vision (CV) and Multimodal AI. 
 
-Currently, I am working as an undergraduate research assistant, where my research centers on mitigating Object Hallucination in Vision-Language Models (VLMs). I am passionate about building robust and practical AI systems through rigorous experimentation and continuous learning.
+I was working as an undergraduate research assistant, where my research centers on mitigating Object Hallucination in Vision-Language Models (VLMs). I am passionate about building robust and practical AI systems through rigorous experimentation and continuous learning.
 
 🚀 **About Me**
 
 * 🎓 Undergraduate student majoring in Artificial Intelligence Engineering at Inha University
-* 🔬 Undergraduate Research Assistant focusing on Vision-Language Models (VLMs)
-* 🎯 Research Interest: Mitigating Object Hallucination in VLMs, Computer Vision, and Multimodal AI
+* 🔬 Undergraduate Research Assistant focusing on Vision-Language Models (VLMs) (Not Current)
+* 🎯 Research Interest: Mitigating Object Hallucination in VLMs, Computer Vision, LLM and Multimodal AI
 * 💻 Developing multimodal AI models and exploring practical applications
 * 🏅 Holding various AI/DL certificates (Naver Boostcourse, Codecademy)
 
