@@ -71,6 +71,13 @@ I was working as an undergraduate research assistant, where my research centers 
 
 ### 📑 Publications (Paper)
 
+### 📜 Certificates (Coursera)
+
+[![Agentic AI with LangChain and LangGraph](https://img.shields.io/badge/Coursera-Agentic%20AI%20with%20LangChain%20and%20LangGraph-0056D2?logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI%20with%20LangChain%20and%20LangGraph.pdf)
+
+### 📜 Certificates (DeepLearning.AI)
+
+[![Retrieval Augmented Generation (RAG)](https://img.shields.io/badge/DeepLearning.AI-Retrieval%20Augmented%20Generation%20(RAG)-F76C6C?logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
 
 ### 📜 Certificates (Codecademy)
 
