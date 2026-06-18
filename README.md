@@ -1,120 +1,65 @@
-💻 **Hi there! I'm Taeyang**
+## Hi, I'm Taeyang 👋
 
-I'm an undergraduate student majoring in Artificial Intelligence Engineering at Inha University and an aspiring AI researcher.  
-My primary focus lies in Computer Vision (CV) and Multimodal AI. 
+I'm an AI Engineering student at Inha University with a strong interest in **Computer Vision** and **Multimodal AI**. I've spent the last year digging into Vision-Language Models (VLMs) as an undergraduate research assistant — specifically on the problem of object hallucination, where models confidently describe things that aren't in the image.
 
-I was working as an undergraduate research assistant, where my research centers on mitigating Object Hallucination in Vision-Language Models (VLMs). I am passionate about building robust and practical AI systems through rigorous experimentation and continuous learning.
-
-🚀 **About Me**
-
-* 🎓 Undergraduate student majoring in Artificial Intelligence Engineering at Inha University
-* 🔬 Undergraduate Research Assistant focusing on Vision-Language Models (VLMs) (Not Current)
-* 🎯 Research Interest: Mitigating Object Hallucination in VLMs, Computer Vision, LLM and Multimodal AI
-* 💻 Developing multimodal AI models and exploring practical applications
-* 🏅 Holding various AI/DL certificates (Naver Boostcourse, Codecademy)
-
-🛠️ **Tech Stack**
-
-**Languages & Frameworks**
-* Python (Pandas, NumPy, Matplotlib)
-* PyTorch, TensorFlow / Keras
-* Hugging Face Transformers, ollama
-* OpenCV, PIL (for Computer Vision tasks)
-* scikit-learn
-
-**Tools & Platforms**
-* Git / GitHub
-* Jupyter Notebook, Google Colab
-* Antigravity, Antigravity IDE
-* macOS (Apple Silicon-based development environment)
+Beyond research, I like building things that actually run. Most of my recent projects sit at the intersection of LLMs, RAG pipelines, and practical deployment.
 
 ---
 
-### 📌 Featured Projects
+### What I'm working on
 
-* 🤖 [RoboGuard-RLAIF](https://github.com/taeyang0505/RoboGuard-RLAIF)
-  * Developed an enterprise-grade AI agent system for technical support using robot manuals
-  * Implemented an RLAIF architecture integrating InstructGPT, Reflexion, and Self-RAG to mitigate hallucinations
-  * Built a modular pipeline using LangGraph, Chroma, and Gemini 2.5 Flash with a Streamlit-based web UI
-
-* 👁️ [B-VCD: Mitigating Object Hallucination in VLMs](https://github.com/taeyang0505/B-VCD-Mitigating-Object-Hallucination-in-VLMs)
-  - Developed a training-free inference-stage defense mechanism for Vision-Language Models (VLMs)
-  - Implemented realistic sensor degradation (Motion Blur & Poisson-Gaussian noise) modeling
-  - Built an automated LLM-as-a-Judge evaluation pipeline using Gemini 2.5 Flash
-
-* ❤️ [Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)
-
-  * BiLSTM + Attention-based text emotion analysis
-  * EfficientNet-based image emotion recognition
-  * Multimodal response generation combining text and image inputs
-
-* 🫁 [Pneumonia Classification Project](https://github.com/taeyang0505/Pneumonia-Classification-Project)
-
-  * Classified pneumonia from chest X-ray images using deep learning techniques
-  * Implemented with TensorFlow and Keras on Jupyter Notebook
-
-* 🌲 [Forest Cover Classification Project](https://github.com/taeyang0505/Forest_Cover_Classification_Project)
-
-  * Predicted forest cover types using structured data
-  * Built classification models using deep learning in TensorFlow
-  * BiLSTM + Attention-based text emotion analysis
-  * EfficientNet-based image emotion recognition
-  * Multimodal response generation combining text and image inputs
-
-* 📊 [U.S. Medical Insurance Cost Analysis](https://github.com/taeyang0505/us-medical-insurance-analysis-project)
-
-  * Visualizing and analyzing insurance data using Pandas and Seaborn
-  * Regression-based cost predictions and insights
-
-* 📚 [Artificial Intelligence: Personal Study and Project Overview](https://github.com/taeyang0505/Artificial_Intelligence_Personal_Study_and_Brief_Project_Overview)
-
-  * A comprehensive summary of personal AI learning and mini-projects
-  * Explored a variety of machine learning and deep learning topics using Python and Numpy
----
-
-### 🏆 Competition Prizes (Domestic, Global)
-
-
-### 📑 Publications (Paper)
-
-### 📜 Certificates (Coursera)
-
-[![Agentic AI with LangChain and LangGraph](https://img.shields.io/badge/Coursera-Agentic%20AI%20with%20LangChain%20and%20LangGraph-0056D2?logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI%20with%20LangChain%20and%20LangGraph.pdf)
-
-### 📜 Certificates (DeepLearning.AI)
-
-[![Retrieval Augmented Generation (RAG)](https://img.shields.io/badge/DeepLearning.AI-Retrieval%20Augmented%20Generation%20(RAG)-F76C6C?logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
-
-### 📜 Certificates (Codecademy)
-
-[![Machine Learning / AI Engineer Career Path](https://img.shields.io/badge/Codecademy-Machine_Learning_%2F_AI_Engineer_Career_Path-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning:%20AI%20Engineer%20Career%20Path.pdf)
-[![Data and Programming Foundations for AI](https://img.shields.io/badge/Codecademy-Data_and_Programming_Foundations_for_AI-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
-[![Build Deep Learning Models with TensorFlow](https://img.shields.io/badge/Codecademy-Build_Deep_Learning_Models_with_TensorFlow-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
-[![Getting Started with Natural Language Processing](https://img.shields.io/badge/Codecademy-Getting_Started_with_Natural_Language_Processing-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
-[![Intro to Large Language Models (LLMs)](https://img.shields.io/badge/Codecademy-Intro_to_Large_Language_Models_(LLMs)-1F2937?logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
-
-### 📜 Certificates (Naver Boostcourse)
-
-[![인공지능 기초 다지기 (1)](https://img.shields.io/badge/Naver_Boostcourse-인공지능_기초_다지기_(1)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_1.pdf)
-[![인공지능 기초 다지기 (2)](https://img.shields.io/badge/Naver_Boostcourse-인공지능_기초_다지기_(2)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_2.pdf)
-[![인공지능을 위한 선형대수](https://img.shields.io/badge/Naver_Boostcourse-인공지능을_위한_선형대수-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_linear_algebra.pdf)
-[![신경망과 딥러닝](https://img.shields.io/badge/Naver_Boostcourse-딥러닝_1단계:_신경망과_딥러닝-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_dl_1.pdf)
-[![컴퓨터 비전의 모든 것](https://img.shields.io/badge/Naver_Boostcourse-컴퓨터_비전의_모든_것-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_cv.pdf)
-[![자연어 처리의 모든 것](https://img.shields.io/badge/Naver_Boostcourse-자연어_처리의_모든_것-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_nlp.pdf)
-[![딥러닝 모델 더 작게 만들기(경량화)](https://img.shields.io/badge/Naver_Boostcourse-딥러닝_모델_더_작게_만들기(경량화)-03C75A?logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_model_compression.pdf)
-
-### ✍ Blog & Contacts
-
-* 📝 [Tistory Blog](https://taeyang4208.tistory.com) — Posting technical write-ups and development notes
-* 📫 Email: [taeyang0505@gmail.com](mailto:taeyang0505@gmail.com)
+- Finishing up **RoboGuard**, an RLAIF-based RAG agent for industrial robot manuals that uses a self-correction loop (LangGraph + Gemini) to catch and fix hallucinated responses before they reach the user
+- Exploring how inference-time defense strategies (like **B-VCD**) can make VLMs more reliable without any retraining
 
 ---
 
-### 📈 GitHub Stats
+### Tech I use regularly
 
-![Taeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyang0505&show_icons=true&theme=default)
+**ML / DL**
+`PyTorch` `Hugging Face Transformers` `scikit-learn` `TensorFlow / Keras`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyang0505&layout=compact&langs_count=6&theme=default)
+**LLM & RAG**
+`LangChain` `LangGraph` `ChromaDB` `Gemini API` `LangSmith`
 
-> "Every project is a step toward real-world impact."
-> — Striving to become a developer who learns consistently and builds practical AI solutions 
+**Vision**
+`OpenCV` `PIL` `EfficientNet`
+
+**General**
+`Python` `Git` `Jupyter` `Google Colab` `macOS (Apple Silicon)`
+
+---
+
+### Projects
+
+**[RoboGuard-RLAIF](https://github.com/taeyang0505/RoboGuard-RLAIF)**
+An enterprise RAG agent for UR10e robot technical support. The core idea: instead of just retrieving and generating, the system runs a judge model on every response and loops back to revise if it detects hallucinated content. Integrates InstructGPT-style reward modeling, Reflexion-style episodic memory, and Self-RAG critique tokens — all wired together in a cyclic LangGraph pipeline with a Streamlit UI and LangSmith tracing.
+
+**[B-VCD: Mitigating Object Hallucination in VLMs](https://github.com/taeyang0505/B-VCD-Mitigating-Object-Hallucination-in-VLMs)**
+Training-free hallucination defense for VLMs at inference time. Adds realistic sensor noise (motion blur + Poisson-Gaussian) to perturb visual input and uses contrastive decoding to suppress hallucinated tokens. Evaluated with an automated LLM-as-a-Judge pipeline.
+
+**[Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)**
+Combines BiLSTM + Attention for text emotion recognition with EfficientNet for image emotion, then fuses both modalities to generate context-aware responses.
+
+**[Pneumonia Classification](https://github.com/taeyang0505/Pneumonia-Classification-Project)**
+CNN-based chest X-ray classifier built with TensorFlow/Keras.
+
+**[Forest Cover Classification](https://github.com/taeyang0505/Forest_Cover_Classification_Project)**
+Multi-class tabular classification using tree-based and ensemble methods.
+
+---
+
+### Certifications
+
+Naver Boostcourse — AI Basics (×2), CV, DL, NLP, Linear Algebra, Model Compression  
+Codecademy — LangChain & LangGraph, RAG, NLP, LLMs, ML/AI Engineer Path, DL with TensorFlow
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
