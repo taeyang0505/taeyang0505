@@ -22,7 +22,7 @@ Beyond research, I like building things that actually run. Most of my recent pro
 `LangChain` `LangGraph` `ChromaDB` `Gemini API` `LangSmith`
 
 **Vision**
-`OpenCV` `PIL` `EfficientNet`
+`OpenCV` `PIL` 
 
 **General**
 `Python` `Git` `Jupyter` `Google Colab` `macOS (Apple Silicon)`
