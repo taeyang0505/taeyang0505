@@ -32,6 +32,11 @@ I was working as an undergraduate research assistant, where my research centers 
 
 ### 📌 Featured Projects
 
+* 🤖 [RoboGuard-RLAIF](https://github.com/taeyang0505/RoboGuard-RLAIF)
+  * Developed an enterprise-grade AI agent system for technical support using robot manuals
+  * Implemented an RLAIF architecture integrating InstructGPT, Reflexion, and Self-RAG to mitigate hallucinations
+  * Built a modular pipeline using LangGraph, Chroma, and Gemini 2.5 Flash with a Streamlit-based web UI
+
 * 👁️ [B-VCD: Mitigating Object Hallucination in VLMs](https://github.com/taeyang0505/B-VCD-Mitigating-Object-Hallucination-in-VLMs)
   - Developed a training-free inference-stage defense mechanism for Vision-Language Models (VLMs)
   - Implemented realistic sensor degradation (Motion Blur & Poisson-Gaussian noise) modeling
