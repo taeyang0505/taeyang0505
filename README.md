@@ -50,8 +50,31 @@ Multi-class tabular classification using tree-based and ensemble methods.
 
 ### Certifications
 
-Naver Boostcourse — AI Basics (×2), CV, DL, NLP, Linear Algebra, Model Compression  
-Codecademy — LangChain & LangGraph, RAG, NLP, LLMs, ML/AI Engineer Path, DL with TensorFlow
+**Naver Boostcourse**
+
+[![AI Basic 1](https://img.shields.io/badge/AI%20Basic%201-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_1.pdf)
+[![AI Basic 2](https://img.shields.io/badge/AI%20Basic%202-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_2.pdf)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_cv.pdf)
+[![Deep Learning 1](https://img.shields.io/badge/Deep%20Learning%201-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_dl_1.pdf)
+[![NLP](https://img.shields.io/badge/NLP-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_nlp.pdf)
+[![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_linear_algebra.pdf)
+[![Model Compression](https://img.shields.io/badge/Model%20Compression-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_model_compression.pdf)
+
+**Codecademy**
+
+[![ML / AI Engineer Career Path](https://img.shields.io/badge/ML%20%2F%20AI%20Engineer%20Career%20Path-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Machine%20Learning%3AAI%20Engineer%20Career%20Path.pdf)
+[![DL with TensorFlow](https://img.shields.io/badge/Deep%20Learning%20with%20TensorFlow-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Build%20Deep%20Learning%20Models%20with%20TensorFlow%20Skill%20Path.pdf)
+[![Intro to LLMs](https://img.shields.io/badge/Intro%20to%20LLMs-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Intro%20to%20Large%20Language%20Models%20(LLMs)%20Course.pdf)
+[![NLP Course](https://img.shields.io/badge/Getting%20Started%20with%20NLP-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
+[![Data & Programming Foundations for AI](https://img.shields.io/badge/Data%20%26%20Programming%20Foundations%20for%20AI-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
+
+**IBM SkillsBuild**
+
+[![Agentic AI with LangChain & LangGraph](https://img.shields.io/badge/Agentic%20AI%20%7C%20LangChain%20%26%20LangGraph-IBM%20SkillsBuild-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI%20with%20LangChain%20and%20LangGraph.pdf)
+
+**DeepLearning.ai**
+
+[![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-DeepLearning.ai-0B6E4F?style=flat-square&logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
 
 ---
 
