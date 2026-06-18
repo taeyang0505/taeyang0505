@@ -25,6 +25,7 @@ I was working as an undergraduate research assistant, where my research centers 
 **Tools & Platforms**
 * Git / GitHub
 * Jupyter Notebook, Google Colab
+* Antigravity, Antigravity IDE
 * macOS (Apple Silicon-based development environment)
 
 ---
