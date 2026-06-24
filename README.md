@@ -39,7 +39,7 @@ Beyond research, I like building things that actually run. Most of my recent pro
 An enterprise RAG agent for UR10e robot technical support. The core idea: instead of just retrieving and generating, the system runs a judge model on every response and loops back to revise if it detects hallucinated content. Integrates InstructGPT-style reward modeling, Reflexion-style episodic memory, and Self-RAG critique tokens — all wired together in a cyclic LangGraph pipeline with a Streamlit UI and LangSmith tracing.
 
 **[B-VCD: Mitigating Object Hallucination in VLMs](https://github.com/taeyang0505/B-VCD-Mitigating-Object-Hallucination-in-VLMs)**
-Training-free hallucination defense for VLMs at inference time. Adds realistic sensor noise (motion blur + Poisson-Gaussian) to perturb visual input and uses contrastive decoding to suppress hallucinated tokens. Evaluated with an automated LLM-as-a-Judge pipeline.
+Training-free, inference-time hallucination defense for VLMs. Perturbs the visual input with a physically-modeled degradation (motion blur + illumination attenuation + Poisson–Gaussian noise) and selects the most grounded answer via a degraded-image-grounded LLM-as-a-Judge (Gemini 2.5 Flash) on VizWiz-VQA.
 
 **[Emotion-Aware Multimodal Chatbot](https://github.com/taeyang0505/Emotion_Aware_Multimodal_Chatbot_Project_Text_Image_and_Response_Generation)**
 Combines BiLSTM + Attention for text emotion recognition with EfficientNet for image emotion, then fuses both modalities to generate context-aware responses.
