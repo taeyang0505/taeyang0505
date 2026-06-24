@@ -11,6 +11,10 @@ Beyond research, I like building things that actually run. Most of my recent pro
 - Finishing up **RoboGuard**, an RLAIF-based RAG agent for industrial robot manuals that uses a self-correction loop (LangGraph + Gemini) to catch and fix hallucinated responses before they reach the user
 - Exploring how inference-time defense strategies (like **B-VCD**) can make VLMs more reliable without any retraining
 
+### Open-source contributions
+
+- **[kubeflow/mcp-server #44](https://github.com/kubeflow/mcp-server/pull/44)** — added HuggingFace model-ID suggestions to the MCP server's `pre_flight` tool, with unit tests *(under review)*
+
 ---
 
 ### Tech I use regularly
