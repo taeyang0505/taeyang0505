@@ -54,6 +54,14 @@ Multi-class tabular classification using tree-based and ensemble methods.
 
 ### Certifications
 
+**IBM SkillsBuild**
+
+[![Agentic AI with LangChain & LangGraph](https://img.shields.io/badge/Agentic%20AI%20%7C%20LangChain%20%26%20LangGraph-IBM%20SkillsBuild-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI%20with%20LangChain%20and%20LangGraph.pdf)
+
+**DeepLearning.ai**
+
+[![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-DeepLearning.ai-0B6E4F?style=flat-square&logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
+
 **Naver Boostcourse**
 
 [![AI Basic 1](https://img.shields.io/badge/AI%20Basic%201-Naver%20Boostcourse-03C75A?style=flat-square&logo=naver&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/boostcourse_ai_basic_1.pdf)
@@ -72,13 +80,6 @@ Multi-class tabular classification using tree-based and ensemble methods.
 [![NLP Course](https://img.shields.io/badge/Getting%20Started%20with%20NLP-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Getting%20Started%20with%20Natural%20Language%20Processing%20Course.pdf)
 [![Data & Programming Foundations for AI](https://img.shields.io/badge/Data%20%26%20Programming%20Foundations%20for%20AI-Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Data%20and%20Programming%20Foundations%20for%20AI%20Skill%20Path.pdf)
 
-**IBM SkillsBuild**
-
-[![Agentic AI with LangChain & LangGraph](https://img.shields.io/badge/Agentic%20AI%20%7C%20LangChain%20%26%20LangGraph-IBM%20SkillsBuild-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI%20with%20LangChain%20and%20LangGraph.pdf)
-
-**DeepLearning.ai**
-
-[![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-DeepLearning.ai-0B6E4F?style=flat-square&logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
 
 ---
 
