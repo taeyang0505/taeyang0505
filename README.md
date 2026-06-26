@@ -1,4 +1,4 @@
-## Hi, I'm Taeyang 👋
+## Hi, I'm Taeyang 
 
 I'm an AI Engineering student at Inha University with a strong interest in **Computer Vision** and **Multimodal AI**. I've spent the last year digging into Vision-Language Models (VLMs) as an undergraduate research assistant — specifically on the problem of object hallucination, where models confidently describe things that aren't in the image.
 
