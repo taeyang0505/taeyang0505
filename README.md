@@ -23,7 +23,7 @@ Beyond research, I like building things that actually run. Most of my recent pro
 `PyTorch` `Hugging Face Transformers` `scikit-learn` `TensorFlow / Keras`
 
 **LLM & RAG**
-`LangChain` `LangGraph` `ChromaDB` `Gemini API` `LangSmith`
+`LangChain` `LangGraph` `ChromaDB` `LangSmith`
 
 **Vision**
 `OpenCV` `PIL` 
