@@ -61,6 +61,7 @@ Multi-class tabular classification using tree-based and ensemble methods.
 **DeepLearning.ai**
 
 [![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-DeepLearning.ai-0B6E4F?style=flat-square&logo=coursera&logoColor=white)](https://github.com/taeyang0505/taeyang0505/blob/main/Retrieval%20Augmented%20Generation.png)
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-DeepLearning.ai-0B6E4F?style=flat-square)](https://github.com/taeyang0505/taeyang0505/blob/main/Agentic%20AI.png)
 
 **Naver Boostcourse**
 
