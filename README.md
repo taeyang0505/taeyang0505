@@ -1,9 +1,8 @@
 ## Hi, I'm Taeyang 
 
-I'm an AI Engineering student at Inha University with a strong interest in **Computer Vision** and **Multimodal AI**. I've spent the last year digging into Vision-Language Models (VLMs) as an undergraduate research assistant — specifically on the problem of object hallucination, where models confidently describe things that aren't in the image.
+I'm an AI Engineering student at Inha University with a strong interest in **World Models**, **Vision-Language-Action (VLA) models**, and **Multimodal AI**. Currently, I'm exploring World Models as an undergraduate researcher, focusing on how intelligent systems can learn and represent the dynamics of the world around them.
 
-Beyond research, I like building things that actually run. Most of my recent projects sit at the intersection of LLMs, RAG pipelines, and practical deployment.
-
+Beyond research, I enjoy turning ideas into systems that actually work. My recent projects span LLMs, RAG pipelines, multimodal applications, and practical deployment.
 ---
 
 ### What I'm working on
