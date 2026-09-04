@@ -35,6 +35,9 @@ Beyond research, I enjoy turning ideas into systems that actually work. My recen
 
 ### Projects
 
+**[2026 INHA AI CHALLENGE](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)**
+Action-conditioned robot video generation using DynamiCrafter, 12-dimensional action encoding, cross-attention conditioning, and background stabilization.
+
 **[RoboGuard-RLAIF](https://github.com/taeyang0505/RoboGuard-RLAIF)**
 An enterprise RAG agent for UR10e robot technical support. The core idea: instead of just retrieving and generating, the system runs a judge model on every response and loops back to revise if it detects hallucinated content. Integrates InstructGPT-style reward modeling, Reflexion-style episodic memory, and Self-RAG critique tokens — all wired together in a cyclic LangGraph pipeline with a Streamlit UI and LangSmith tracing.
 
@@ -49,9 +52,6 @@ CNN-based chest X-ray classifier built with TensorFlow/Keras.
 
 **[Forest Cover Classification](https://github.com/taeyang0505/Forest_Cover_Classification_Project)**
 Multi-class tabular classification using tree-based and ensemble methods.
-
-**[2026 INHA AI CHALLENGE](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)**
-Action-conditioned robot video generation using DynamiCrafter, 12-dimensional action encoding, cross-attention conditioning, and background stabilization.
 
 ---
 
