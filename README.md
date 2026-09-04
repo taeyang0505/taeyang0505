@@ -50,7 +50,16 @@ CNN-based chest X-ray classifier built with TensorFlow/Keras.
 **[Forest Cover Classification](https://github.com/taeyang0505/Forest_Cover_Classification_Project)**
 Multi-class tabular classification using tree-based and ensemble methods.
 
+**[2026 INHA AI CHALLENGE](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)**
+Action-conditioned robot video generation using DynamiCrafter, 12-dimensional action encoding, cross-attention conditioning, and background stabilization.
+
 ---
+
+### Competition & Awards
+
+**[2026 INHA AI Challenge](https://dacon.io/competitions/official/236736/overview/description)**
+
+4th Place in the Undergraduate Track (Excellence Award), among 216 participants. [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)
 
 ### Certifications
 
