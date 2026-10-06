@@ -35,6 +35,9 @@ Beyond research, I enjoy turning ideas into systems that actually work. My recen
 
 ### Projects
 
+**[2026 National Parks Satellite Monitoring AI Challenge](https://aifactory.space/ko/competitions/9306)**
+Bi-temporal satellite change detection for new buildings and tree removal in Korean national parks, using model ensembles and polygon-based change localization. **1st place out of 136 teams on the private leaderboard.**
+
 **[2026 INHA AI CHALLENGE](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)**
 Action-conditioned robot video generation using DynamiCrafter, 12-dimensional action encoding, cross-attention conditioning, and background stabilization.
 
@@ -56,6 +59,10 @@ Multi-class tabular classification using tree-based and ensemble methods.
 ---
 
 ### Competition & Awards
+
+**[2026 National Parks Satellite Monitoring AI Challenge](https://aifactory.space/ko/competitions/9306)**
+
+**1st Place** in Topic 3: Facility Change Detection, among **136 teams**. Private leaderboard score: **0.7068898922**. Organized by the Korea National Park Service.
 
 **[2026 INHA AI Challenge](https://dacon.io/competitions/official/236736/overview/description)**
 
