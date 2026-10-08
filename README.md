@@ -66,7 +66,7 @@ Multi-class tabular classification using tree-based and ensemble methods.
 
 **[2026 INHA AI Challenge](https://dacon.io/competitions/official/236736/overview/description)**
 
-Undergraduate Track (Excellence Award), among 216 participants. [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)
+Undergraduate Track (**Excellence Award**), among **216 participants**. [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)
 
 ### Certifications
 
