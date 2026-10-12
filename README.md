@@ -2,7 +2,7 @@
 
 I'm an AI Engineering student at Inha University with a strong interest in **World Models**, **3D Reconstruction/4D Reconstruction**, **Vision-Language-Action (VLA) models**, and **Multimodal AI**. Currently, I'm exploring World Models as an undergraduate researcher, focusing on how intelligent systems can learn and represent the dynamics of the world around them.
 
-Beyond research, I enjoy turning ideas into systems that actually work. 
+Beyond research, I enjoy turning ideas into systems that actually work.
 My recent projects span World Model, Scene Understanding, LLMs, RAG pipelines, multimodal applications, and practical deployment.
 
 ---
