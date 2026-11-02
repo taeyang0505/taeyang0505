@@ -20,6 +20,9 @@ My recent projects span World Model, Scene Understanding, LLMs, RAG pipelines, m
 
 ### Tech I use regularly
 
+**Language**
+`Python` `C++` `C`
+
 **ML / DL**
 `PyTorch` `Hugging Face Transformers` `scikit-learn` `TensorFlow / Keras`
 
@@ -30,7 +33,7 @@ My recent projects span World Model, Scene Understanding, LLMs, RAG pipelines, m
 `OpenCV` `PIL` 
 
 **General**
-`Python` `Git` `Jupyter` `Google Colab` `macOS (Apple Silicon)`
+`Git` `Jupyter` `Google Colab` `macOS (Apple Silicon)`
 
 ---
 
