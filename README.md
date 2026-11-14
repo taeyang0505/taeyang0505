@@ -76,8 +76,8 @@ Generated 16-frame robot videos from a single image and a 16-step joint-action s
 
 **[2026 SINCON](https://github.com/WSY129/SINCON_2026_GPT-GivePrizeTous)**
 
-**3rd Place**, among **N teams**. Private leaderboard score (RMSLE): **0.XXXXXX**. Inha University inter-club AI competition (SINSA · INCOM · NETers), hosted on Kaggle.
-Forecast hourly subway boardings at 71 Incheon/Bucheon stations for July–October 2026 from data up to June 2026, using a stacked ensemble of LightGBM, XGBoost, CatBoost and TabM trained on residuals over a seasonal baseline, time-ordered 4-fold validation, and holiday/event corrections.
+**3rd Place**, among **13 teams**. Private leaderboard score (RMSLE): **0.149321**. Inha University inter-club AI competition (SINSA · INCOM · NETers), hosted on Kaggle.
+Forecast hourly subway boardings at 71 stations on Incheon Lines 1, 2 and 7 for July–October 2026 (123 days × 18 hourly slots, 157,194 predictions) in a single shot from data up to June 2026. Built a stacked ensemble of LightGBM, XGBoost, CatBoost and TabM trained on residuals over a seasonal baseline, validated with time-ordered 4-fold cross-validation, and added holiday and event corrections.
 
 
 ### Certifications
