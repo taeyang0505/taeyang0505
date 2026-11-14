@@ -72,6 +72,12 @@ Multi-class tabular classification using tree-based and ensemble methods.
 
 Undergraduate Track (**Excellence Award**), among **216 participants**. [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-CHALLENGE)
 
+**[2026 SINCON](https://github.com/WSY129/SINCON_2026_GPT-GivePrizeTous)**
+
+**3rd Place**, among **N teams**. Private leaderboard score (RMSLE): **0.XXXXXX**. Inha University inter-club AI competition (SINSA · INCOM · NETers), hosted on Kaggle.
+Forecast hourly subway boardings at 71 Incheon/Bucheon stations for July–October 2026 from data up to June 2026, using a stacked ensemble of LightGBM, XGBoost, CatBoost and TabM trained on residuals over a seasonal baseline, time-ordered 4-fold validation, and holiday/event corrections.
+
+
 ### Certifications
 
 **IBM SkillsBuild**
