@@ -71,7 +71,7 @@ Detected newly built structures and tree removal as polygons from bi-temporal sa
 
 **[2026 INHA AI Challenge](https://dacon.io/competitions/official/236736/overview/description)**
 
-Undergraduate Track, **4th Place (Excellence Award)**, among **216 participants**. Private score: **0.2162** (lower is better). [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-Challenge)
+**4th Place (Excellence Award)**, among **216 participants**. Private score: **0.2162** (lower is better). [Project Repository](https://github.com/taeyang0505/2026-INHA-AI-Challenge)
 Generated 16-frame robot videos from a single image and a 16-step joint-action sequence. Fine-tuned DynamiCrafter-512 (a 1.44B-parameter video diffusion UNet) with actions injected through zero-initialized cross-attention tokens (absolute joints + deltas), trained in four stages on a single 32 GB GPU (SDPA attention, 8-bit AdamW), and froze the background at inference to suppress diffusion jitter.
 
 **[2026 SINCON](https://github.com/WSY129/SINCON_2026_GPT-GivePrizeTous)**
