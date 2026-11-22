@@ -14,6 +14,8 @@ My recent projects span World Model, Scene Understanding, LLMs, RAG pipelines, m
 
 ### Open-source contributions
 
+- **[kohya-ss/musubi-tuner #1171](https://github.com/kohya-ss/musubi-tuner/pull/1171)** — fixed LoRA dropout staying active in the samples generated during training (video/image LoRA trainer for Wan, HunyuanVideo and others), with a regression test *(under review)*
+- **[Genesis-Embodied-AI/genesis-world #3907](https://github.com/Genesis-Embodied-AI/genesis-world/pull/3907)** — fixed the `Point` force field pushing particles away for a positive strength in the Genesis physics simulator for robotics and embodied AI, with an analytical test on CPU and Metal *(under review)*
 - **[kubeflow/mcp-server #44](https://github.com/kubeflow/mcp-server/pull/44)** — added HuggingFace model-ID suggestions to the MCP server's `pre_flight` tool, with unit tests *(under review)*
 
 ---
