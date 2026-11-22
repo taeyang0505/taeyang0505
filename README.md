@@ -14,6 +14,7 @@ My recent projects span World Model, Scene Understanding, LLMs, RAG pipelines, m
 
 ### Open-source contributions
 
+- **[colmap/colmap #5062](https://github.com/colmap/colmap/pull/5062)** — fixed the progress bar of the custom incremental SfM pipeline overshooting when sub-models are discarded, images are shared between models or rigs register several images at once, with a regression test *(under review)*
 - **[huggingface/transformers #51081](https://github.com/huggingface/transformers/pull/51081)** — added Qwen2-VL and Qwen2.5-VL GGUF files (llama.cpp) to the GGUF loading path, verified against the original model on a real 2B checkpoint *(under review)*
 - **[kohya-ss/musubi-tuner #1171](https://github.com/kohya-ss/musubi-tuner/pull/1171)** — fixed LoRA dropout staying active in the samples generated during training (video/image LoRA trainer for Wan, HunyuanVideo and others), with a regression test *(under review)*
 - **[Genesis-Embodied-AI/genesis-world #3907](https://github.com/Genesis-Embodied-AI/genesis-world/pull/3907)** — fixed the `Point` force field pushing particles away for a positive strength in the Genesis physics simulator for robotics and embodied AI, with an analytical test on CPU and Metal *(under review)*
